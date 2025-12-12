@@ -46,4 +46,5 @@ if __name__ == "__main__":
         skip_if_exists=True,
         reader=PDFReader()
     )
-    agent_os.serve(app="rag:app", reload=True, reload_delay=1)
+
+    agent_os.serve(app="rag:app", host="0.0.0.0", port=10000, reload=True, reload_delay=1)
