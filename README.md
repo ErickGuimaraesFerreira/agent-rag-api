@@ -5,7 +5,7 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google)
 ![Render](https://img.shields.io/badge/Deploy-Render-black?style=for-the-badge&logo=render)
 
-Um Agente de IA profissional construído com **Agno** (anteriormente Phidata) que utiliza **RAG (Retrieval-Augmented Generation)** para responder perguntas de forma inteligente com base em documentos PDF. O projeto conta com **memória persistente**, permitindo lembrar preferências do usuário e interações passadas, e expõe uma API RESTful para fácil integração.
+Um Agente de IA profissional construído com **Agno** que utiliza **RAG (Retrieval-Augmented Generation)** para responder perguntas de forma inteligente com base em documentos PDF. O projeto conta com **memória persistente**, permitindo lembrar preferências do usuário e interações passadas, e expõe uma API RESTful para fácil integração.
 
 Atualmente configurado para analisar relatórios financeiros (ex: Grendene 2T25), mas facilmente adaptável para qualquer base de conhecimento.
 
@@ -95,3 +95,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
+
