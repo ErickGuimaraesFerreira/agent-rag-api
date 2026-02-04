@@ -37,7 +37,7 @@ Atualmente configurado para analisar relatórios financeiros (ex: Grendene 2T25)
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/ErickGuimaraesFerreira/nome-do-repo.git
 cd nome-do-repo
 ```
 
@@ -95,4 +95,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
+
 
